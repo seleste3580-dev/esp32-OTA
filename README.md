@@ -123,6 +123,3 @@ When running in router mode, the loop checks for Wi-Fi disconnects and retries a
 | Fallback AP does not start | Ensure `OTA_AP_PASSWORD` is at least 8 characters. |
 | ESP32-C6 build fails | Update to an Arduino ESP32 core version that supports your board. |
 
-## 📜 License
-
-Add your preferred license before publishing or distributing this firmware.
